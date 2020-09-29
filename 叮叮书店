@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="huangjunqiang">
+    <meta name="keyword" content="书店,叮叮书店,图书">
+    <meta name="description" content="叮叮书店是一个销售书籍的网上书店">
+    <meta name="robots" content="index,follow">
+    <title>叮叮书店</title>
+</head>
+<body>
+    <div id="header-wrapper">
+        <header class="container">
+    </div>       
+        <div id="nav"></div>
+    <div id="content-wrapper"></div>
+            <article>
+                <div id="adv">
+                <section></section>
+                <section class="article-section"></section>
+                <section class="article-section"></section>
+            </article>
+            <aside>
+                <section id="advert"></section>
+                <section id="best-selling"></section>
+                <section class="aside-section"></section>
+                <section class="aside-section"></section>
+                <section class="aside-section"></section>
+                <section class="about"></section>
+            </aside>
+        </div>      
+    <div id="foot-wrapper">
+        <footer class="container"></footer>
+    </div>
+            
+    <section id="copyright" class="container"></section>
+</body>
+</html>
