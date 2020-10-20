@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>购物车</title>
+</head>
+<body>
+<section class="cartt"><h2 id="title8">购物车</h2>
+    <table class="cart-table" border="1">
+         <tr class="cart-title">
+            <th colspan="2">名称</th>
+            <th>单价</th>
+            <th>数量</th>
+            <th>合计</th>
+        </tr>
+        <tr>
+            <td class="td-center"><a href="details.html"><img src="images/selling1.jpg" alt="封面"/></a></td>
+            <td><h3>《JavaScript权威指南》</h3></td>
+            <td class="td-right">100.00</td>
+            <td class="td-right">1</td>
+            <td class="td-right">100.00</td>
+        </tr>
+        <tr>
+            <td class="td-center"><a href="details.html"><img src="images/selling2.jpg" alt="封面"/></a></td>
+            <td><h3>《CSS商业网页布局之道》</h3></td>
+            <td class="td-right">100.00</td>
+            <td class="td-right">1</td>
+            <td class="td-right">100.00</td>
+        </tr>
+        <tr>
+            <td class="td-center"><a href="details.html"><img src="images/selling4.jpg" alt="封面"/></a></td>
+            <td><h3>《瞬间之美：Web界面设计如何让用户心动》</h3></td>
+            <td class="td-right">100.00</td>
+            <td class="td-right">1</td>
+            <td class="td-right">100.00</td>
+        </tr>
+        <tr class="cart-title">
+            <td colspan="5" class="td-right">3件商品总价（不含运费）;￥300.00<a href="#">去结算</a></td>
+        </tr>
+    </table>
+</section>
+<table border="1" width="600" height="600" cellpadding="10">
+    <tr>
+        <td rowspan="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2" rowspan="2"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+</body>
+</html>
